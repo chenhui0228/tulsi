@@ -48,7 +48,7 @@ Tulsi 项目组成：
 
 在Swift各节点下载Tulsi安装包
 
-	git clone http://10.202.16.216/cloudStorage/tulsi-sf.git
+	git clone https://github.com/chenhui0228/tulsi.git
 
 打开Tulsi目录
 

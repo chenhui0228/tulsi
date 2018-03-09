@@ -39,7 +39,7 @@ Tulsi 项目组成：
 
 因为我们的OS环境是Centos，然而Tulsi只提供了适合Ubuntu环境下的部署工具，同时GitHub上的源代码存在一些缺陷。这里提供我已经修复影响项目运行Bug后的源代码地址：
 
-[http://10.202.16.216/cloudStorage/tulsi-sf.git](http://10.202.16.216/cloudStorage/tulsi-sf.git)
+[https://github.com/chenhui0228/tulsi.git](https://github.com/chenhui0228/tulsi.git)
 
 你可以使用用户 <code style="color:#e74c3c; padding:1px 3px; border: solid 1px #e1e4e5">test123</code> 克隆或者下载源代码，用户密码为 <code style="color:#e74c3c; padding:1px 3px; border: solid 1px #e1e4e5">12345678</code>
 

@@ -1,0 +1,9 @@
+storage-3-node:s1 Names ,sdb1,sdc1
+storage-3-node:ds1,[],g,g,g
+storage-2-node:s2 Names ,sdb1,sdc1
+storage-2-node:s2,[],g,g,g
+storage-4-node:s3 Names ,sdb1,sdc1
+storage-4-node:s3,[],g,g,g
+storage-1-node:s4 Names ,sdb1,sdc1
+storage-1-node:s4,[],g,g,g
+proxy-node:p1,g

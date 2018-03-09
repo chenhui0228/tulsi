@@ -1,0 +1,6 @@
+proxyServer,1
+storageServer,4
+storage-3-node:ds1,2
+storage-2-node:ds2,2
+storage-4-node:ds3,2
+storage-1-node:ds4,2

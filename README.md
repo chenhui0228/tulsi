@@ -41,8 +41,6 @@ Tulsi 项目组成：
 
 [https://github.com/chenhui0228/tulsi.git](https://github.com/chenhui0228/tulsi.git)
 
-你可以使用用户 <code style="color:#e74c3c; padding:1px 3px; border: solid 1px #e1e4e5">test123</code> 克隆或者下载源代码，用户密码为 <code style="color:#e74c3c; padding:1px 3px; border: solid 1px #e1e4e5">12345678</code>
-
 <a id="tulsiserver"></a>
 ### 安装Tulsi Server ###
 
